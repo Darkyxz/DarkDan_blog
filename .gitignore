@@ -11,7 +11,7 @@ node_modules
 /prisma/data.db
 /prisma/data.db-journal
 
-/app/styles/tailwind.css
+
 
 # Local Netlify folder
 .netlify
