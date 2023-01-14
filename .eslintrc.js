@@ -1,6 +1,6 @@
 /** @type {import('@types/eslint').Linter.BaseConfig} */
 module.exports = {
-  extends: [
+  extends: ["standard",
     "@remix-run/eslint-config",
     "@remix-run/eslint-config/node",
     "@remix-run/eslint-config/jest-testing-library",
